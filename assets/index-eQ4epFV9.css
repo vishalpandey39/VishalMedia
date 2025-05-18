@@ -1,4 +1,4 @@
-@charset "UTF-8";.app-container{display:flex}.content{width:100%}.sidebar{min-height:800px}.post-card{margin:20px 30px}.hashtag{margin:0 3px}.reactions{margin:15px 0 0}/*!
+@charset "UTF-8";.app-container{display:flex}.content{width:100%}.sidebar{min-height:800px}.post-card{margin:20px 30px}.hashtag{margin:0 3px}.reactions{margin:15px 0 0}.create-post{width:80%;margin-top:50px;margin-left:10%}/*!
 * Bootstrap  v5.3.5 (https://getbootstrap.com/)
 * Copyright 2011-2025 The Bootstrap Authors
 * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
